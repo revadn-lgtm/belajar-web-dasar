@@ -2,14 +2,11 @@
 // FORM SUBMIT
 // ============================
 document.querySelector("form").addEventListener("submit", function(e) {
-    e.preventDefault();
-
-    const nama = document.getElementById("nama").value;
+    const nama = document.getElementById("nama").value.trim();
 
     if (nama === "") {
+        e.preventDefault();
         alert("Nama harus diisi dulu ya!");
-    } else {
-        alert("Terima kasih, " + nama + " 😊");
     }
 });
 
