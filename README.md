@@ -20,6 +20,7 @@ Website sederhana dengan desain aesthetic bernuansa pink & lavender yang dibuat 
 - JavaScript
 
 ## Struktur Folder
+- `>img`
 - `index.php`
 - `koneksi.php`
 - `style.css`
@@ -40,6 +41,14 @@ Website sederhana dengan desain aesthetic bernuansa pink & lavender yang dibuat 
 ## Tujuan
 - Latihan membuat website sederhana dengan backend PHP
 - Memahami operasi form, penyimpanan data ke MySQL, dan tampilan dinamis
+- Memahami HTML, CSS,PHP, Database, JavaScript
+
+## Preview
+![Screenshot Dashboard](img/pre1.png)
+![Screenshot Dashboard](img/pre2.png)
+![Screenshot Dashboard](img/pre3.png)
+![Screenshot Dashboard](img/pre4.png)
+
 
 ## Author
 **Reva Dwi Nurrahma**
