@@ -356,6 +356,33 @@ article p {
     transform: translateY(0);
 }
 
+.message-box {
+    margin-bottom: 20px;
+    padding: 18px 20px;
+    border-radius: 16px;
+    background: rgba(236, 72, 153, 0.12);
+    border: 1px solid rgba(244, 114, 182, 0.35);
+    color: var(--pink-dark);
+    font-weight: 700;
+    text-align: center;
+}
+
+.color-swatch {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.no-data {
+    text-align: center;
+    color: var(--text-soft);
+    padding: 18px 0;
+}
+
 /* ============================
    TABLE SECTION
 ============================ */
